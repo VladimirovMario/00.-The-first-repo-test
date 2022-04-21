@@ -1,6 +1,5 @@
 function num1To20() {
-    // hi all
-   /*
+    /*
     console.log(1);
     console.log(2);
     console.log(3);
@@ -21,8 +20,7 @@ function num1To20() {
     console.log(18);
     console.log(19);
     console.log(20);
-    */
-   
+    */   
     for(let n = 1; n<=20; n++){
         console.log(n);
     }
