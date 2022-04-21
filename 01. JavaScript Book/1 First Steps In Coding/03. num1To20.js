@@ -1,4 +1,5 @@
 function num1To20() {
+    // hi all
    /*
     console.log(1);
     console.log(2);
