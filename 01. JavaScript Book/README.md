@@ -9,3 +9,6 @@ The current book on The basics of JavaScript is available for free use on the In
 
     https://js-book.softuni.org
 This is the official website of the book and there will be uploaded its latest version. The book has been similarly translated to other programming languages listed on its website.
+
+
+![JavaScript-Programming-Basics-Book-Cover](https://user-images.githubusercontent.com/103949296/164726069-745debaa-e3a7-48a5-bc2c-fc8616119c15.png)
