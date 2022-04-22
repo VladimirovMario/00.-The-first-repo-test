@@ -1,6 +1,6 @@
 Greetings from Sofia, Bulgaria.
 
- Those are my solutions, for the tasks in this book.
+ Those are my solutions for the tasks in this book.
 
 Best regards,
 Mario Vladimirov
