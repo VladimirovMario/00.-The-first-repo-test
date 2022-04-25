@@ -1,4 +1,5 @@
 function studyHall(input) {
+  
   let length = Number(input[0]);
   let width = Number(input[1]);
 
