@@ -7,18 +7,9 @@ function pipesInPool(input) {
 
   if (water <= volume) {
     console.log(
-      `The pool is ${Math.trunc(
-        (water / volume) * 100
-      )}% full. Pipe 1: ${Math.trunc(
-        ((pipe1 * hours) / water) * 100
-      )}%. Pipe 2: ${Math.trunc(((pipe2 * hours) / water) * 100)}%.`
-    );
+      `The pool is ${Math.trunc((water / volume) * 100)}% full. Pipe 1: ${Math.trunc(((pipe1 * hours) / water) * 100)}%. Pipe 2: ${Math.trunc(((pipe2 * hours) / water) * 100)}%.`);
   } else {
-    console.log(
-      `For ${hours} hours the pool overflows with ${
-        Math.round((water - volume) * 100) / 100
-      } liters.`
-    );
+    console.log(`For ${hours} hours the pool overflows with ${Math.round((water - volume) * 100) / 100} liters.`);
   }
 }
 pipesInPool([`1000`, `100`, `120`, `3`]);
