@@ -22,7 +22,7 @@ function cinema(input) {
   // } else if (projection === `discount`) {
   //     totalRevenue = (roles * columns) * 5.00;
   // }
-  console.log(totalRevenue.toFixed(2) + ` leva`);
+  console.log(totalRevenue.toFixed(2) + ` lv`);
 }
 cinema([`Premiere`, `10`, `12`]);
 cinema([`Normal`, `21`, `13`]);
