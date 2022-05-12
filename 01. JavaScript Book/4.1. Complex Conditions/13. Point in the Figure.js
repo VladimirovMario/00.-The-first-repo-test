@@ -22,11 +22,19 @@ function pointInTheFigure(input) {
         console.log(`border`);
     }
 }
-pointInTheFigure([`2`, `3`, `10`]); //outside
-pointInTheFigure([`2`, `3`, `1`])  //inside
-pointInTheFigure([`2`, `2`, `2`]) //border
-pointInTheFigure([`2`, `6`, `0`]) //border
-pointInTheFigure([`2`, `0`, `6`]) //outside
-pointInTheFigure([`15`, `13`, `55`]) //outside
-pointInTheFigure([`15`, `29`, `37`]) //inside
-pointInTheFigure([`15`, `37`, `18`]) //outside
+pointInTheFigure([`2`, `3`, `10`]);
+//  expected output: outside
+pointInTheFigure([`2`, `3`, `1`])  
+// expected output: inside
+pointInTheFigure([`2`, `2`, `2`]) 
+//  expected output: border
+pointInTheFigure([`2`, `6`, `0`]) 
+//  expected output: border
+pointInTheFigure([`2`, `0`, `6`]) 
+//  expected output: outside
+pointInTheFigure([`15`, `13`, `55`]) 
+// expected output: outside
+pointInTheFigure([`15`, `29`, `37`]) 
+// expected output: inside
+pointInTheFigure([`15`, `37`, `18`])  
+// expected output: outside
