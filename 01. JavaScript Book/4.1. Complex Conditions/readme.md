@@ -9,7 +9,8 @@ Write a program, that enters an integer h and the coordinates of given point {x,
 Sample Input and Output
 
 
-![Sample Input and Output](https://user-images.githubusercontent.com/103949296/167994831-bc90e5f2-ae36-4c2a-b7ff-ad628499b23d.png)
+![Sample Input and Output](https://user-images.githubusercontent.com/103949296/167996168-241ba738-4fcc-4570-a33b-086294a204e8.png)
+
 
 Hints and Guidelines
 A possible logic for solving the task (not the only correct one):
