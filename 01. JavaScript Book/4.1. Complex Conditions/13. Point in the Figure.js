@@ -39,4 +39,3 @@ pointInTheFigure([`15`, `-4`, `7`]);
 // expected output: outside
 pointInTheFigure([`15`, `30`, `0`]);
 //  expected output: border
-
