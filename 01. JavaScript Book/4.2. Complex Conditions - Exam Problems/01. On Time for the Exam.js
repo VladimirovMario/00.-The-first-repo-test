@@ -39,12 +39,36 @@ function onTimeForTheExam(input) {
   }
 }
 onTimeForTheExam([`9`, `30`, `9`, `50`]);
+//expected output: Late
+//20 minutes after the start
+console.log(`---`);
 onTimeForTheExam([`16`, `00`, `15`, `00`]);
+//expected output: Early
+//1:00 hours before the start
+console.log(`---`);
 onTimeForTheExam([`9`, `00`, `8`, `30`]);
+//expected output: On time
+// 30 minutes before the start
+console.log(`---`);
 onTimeForTheExam([`9`, `00`, `10`, `30`]);
+//expected output: Late
+// 1:30 hours after the start
+console.log(`---`);
 onTimeForTheExam([`14`, `00`, `13`, `55`]);
+//expected output: On time
+// 5 minutes before the start
+console.log(`---`);
 onTimeForTheExam([`11`, `30`, `8`, `12`]);
+//expected output: Early
+// 3:18 hours before the start
+console.log(`---`);
 onTimeForTheExam([`10`, `00`, `10`, `00`]);
+//expected output: On time
+console.log(`---`);
 onTimeForTheExam([`11`, `30`, `10`, `55`]);
+//expected output: Early
+// 35 minutes before the start
+console.log(`---`);
 onTimeForTheExam([`11`, `30`, `12`, `29`]);
-
+//expected output: Late
+// 59 minutes after the start
