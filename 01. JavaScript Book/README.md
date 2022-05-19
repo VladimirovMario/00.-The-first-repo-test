@@ -7,7 +7,7 @@ This book is suitable for complete beginners, who want to try what programming i
   ###  Official Website of The Book
 The current book on The basics of JavaScript is available for free use on the Internet from:
 
-  ### https://js-book.softuni.org
+  ### [Programming Basics with JavaScript](https://js-book.softuni.org)
 This is the official website of the book and there will be uploaded its latest version. The book has been similarly translated to other programming languages listed on its website.
 
 
