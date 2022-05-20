@@ -54,9 +54,9 @@ function oddEvenPosition(input) {
   }
 }
 oddEvenPosition([`6`, `2`, `3`, `5`, `4`, `2`, `1`]);
-// oddEvenPosition([`5`, `3`, `-2`, `8`, `11`, `-3`]);
-// oddEvenPosition([`3`, `-1`, `-2`, `-3`]);
-// oddEvenPosition([`2`, `1.5`, `-2.5`]);
-// oddEvenPosition([`1`, `-5`,]);
-// oddEvenPosition([`1`, `1`,]);
-// oddEvenPosition([`4`, `-1`, `-2`, `-3`,`-3`]);
+oddEvenPosition([`5`, `3`, `-2`, `8`, `11`, `-3`]);
+oddEvenPosition([`3`, `-1`, `-2`, `-3`]);
+oddEvenPosition([`2`, `1.5`, `-2.5`]);
+oddEvenPosition([`1`, `-5`,]);
+oddEvenPosition([`1`, `1`,]);
+oddEvenPosition([`4`, `-1`, `-2`, `-3`,`-3`]);
