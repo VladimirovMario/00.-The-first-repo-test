@@ -54,9 +54,17 @@ function oddEvenPosition(input) {
   }
 }
 oddEvenPosition([`6`, `2`, `3`, `5`, `4`, `2`, `1`]);
-oddEvenPosition([`5`, `3`, `-2`, `8`, `11`, `-3`]);
-oddEvenPosition([`3`, `-1`, `-2`, `-3`]);
+console.log(`---`);
 oddEvenPosition([`2`, `1.5`, `-2.5`]);
-oddEvenPosition([`1`, `-5`,]);
-oddEvenPosition([`1`, `1`,]);
-oddEvenPosition([`4`, `-1`, `-2`, `-3`,`-3`]);
+console.log(`---`);
+oddEvenPosition([`1`, `1`]);
+console.log(`---`);
+oddEvenPosition([`0`]);
+console.log(`---`);
+oddEvenPosition([`5`, `3`, `-2`, `8`, `11`, `-3`]);
+console.log(`---`);
+oddEvenPosition([`4`, `1.5`, `1.75`, `1.5`, `1.75`]);
+console.log(`---`);
+oddEvenPosition([`1`, `-5`]);
+console.log(`---`);
+oddEvenPosition([`3`, `-1`, `-2`, `-3`]);
