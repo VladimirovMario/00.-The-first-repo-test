@@ -24,5 +24,5 @@ function hospital(input) {
     console.log(`Untreated patients: ${untreatedPatients}.`);
 }
 hospital([`6`, `25`, `25`, `25`, `25`, `25`, `2`]);
-// hospital([`4`, `7`, `27`, `9`, `1`]);
-// hospital([`3`, `7`, `7`, `7`,]);
+hospital([`4`, `7`, `27`, `9`, `1`]);
+hospital([`3`, `7`, `7`, `7`,]);
