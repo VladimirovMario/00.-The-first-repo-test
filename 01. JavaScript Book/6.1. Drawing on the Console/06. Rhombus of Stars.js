@@ -25,3 +25,17 @@ function rhombusOfStars(input) {
   }
 }
 rhombusOfStars([`6`]);
+// expected output 
+/*
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
+* * * * * *
+ * * * * *
+  * * * *
+   * * *
+    * *
+     *
+*/
