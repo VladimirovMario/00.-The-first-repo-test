@@ -34,7 +34,6 @@ function butterfly(input) {
 }
 butterfly([`6`])
 // Expected output:
-
 // ****\ /****
 // ----\ /----
 // ****\ /****
@@ -44,4 +43,3 @@ butterfly([`6`])
 // ----/ \----
 // ****/ \****
 // ----/ \----
-
