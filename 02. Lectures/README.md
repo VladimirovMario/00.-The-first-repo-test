@@ -12,3 +12,4 @@
  - Perform simple calculations
  - Working with more complex loops (nested for loops and while)
  
+ ![JS Learning](https://user-images.githubusercontent.com/103949296/174147254-66dbffb7-f4bc-4fb7-b3b9-0e0f789afeff.png)
