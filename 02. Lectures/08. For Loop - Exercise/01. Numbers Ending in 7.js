@@ -1,12 +1,8 @@
-function numbersEndingin7() {
-    for (let i = 7; i <= 997; i++) {
-        if (i % 10 === 7) {
-            console.log(i);
-
-        }
-
+function numbersEndingIn7() {
+  for (let i = 7; i <= 997; i++) {
+    if (i % 10 === 7) {
+      console.log(i);
     }
-
-
+  }
 }
-numbersEndingin7()
+numbersEndingIn7();
