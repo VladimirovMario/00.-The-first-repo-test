@@ -26,6 +26,10 @@ function sumOfTwoNumbers(input) {
   }
 }
 sumOfTwoNumbers([`1`, `10`, `5`]);
+// expected output: Combination N:4 (1 + 4 = 5)
 sumOfTwoNumbers([`88`, `888`, `1000`]);
+// expected output: Combination N:20025 (112 + 888 = 1000)
 sumOfTwoNumbers([`23`, `24`, `20`]);
+// expected output: 4 combinations - neither equals 20
 sumOfTwoNumbers([`88`, `888`, `2000`]);
+// expected output: 641601 combinations - neither equals 2000
